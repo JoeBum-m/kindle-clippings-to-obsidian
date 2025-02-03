@@ -24,7 +24,7 @@ First, make the script executable:
 
 Then, run the script, including both the path of your txt document and an output directory:
 
-`./extract-kindle-clippings.py [<path to My Clippings.txt file>] -o [<output directory>]`
+`./extract-kindle-clippings.py C:\Users\JoeBum\Documents\kindle stuff -o C:\Users\JoeBum\Documents\kindle stuff\highlights`
 
 Example:
 
